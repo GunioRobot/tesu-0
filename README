@@ -1,3 +1,7 @@
 I'm a branch on test3
+<<<<<<< HEAD
 test22222 - tt
 check merge
+=======
+test22222 - tt - tt
+>>>>>>> ea0f0c18434d89b616a54e166a646451b5154324
